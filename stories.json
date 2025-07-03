@@ -1,10 +1,82 @@
- [
-      {
-        "title": "The Tortoise and the Wisdom of the World",
-        "author": "Chinelo Okafor",
-        "cover_image": "https://yourcdn.com/images/tortoise_story.jpg",
-        "audio": "https://yourcdn.com/audio/tortoise_story.mp3",
-        "text": "Once upon a time, in an Igbo village, there lived a clever tortoise named Mbe...",
-        "category": "Folktale"
-      }
-    ]
+[
+  {
+    "title": "How the Tortoise Got His Cracked Shell",
+    "author": "Traditional Igbo Folk Tale",
+    "cover_image": "https://yourcdn.com/images/tortoise_cracked_shell.jpg",
+    "audio": "",
+    "text": "Once upon a time, the birds invited all creatures to a grand feast in the sky. The tortoise, Mbe, longed to attend but had no wings. So he begged feathers from the birds, spun them together into makeshift wings, and soared into the heavens. Once there, Mbe unveiled his name: “All-of-You,” and greedily ate everything before the birds could have their fill. \n\n Angered at his selfishness, the birds reclaimed their feathers, leaving Mbe stranded in the sky. Desperate, he telepathically requested his wife on earth to spread soft things for his landing. The birds, still offended, told her to lay out only hard objects. Trusting them, she followed their instructions. Mbe leaped — and crashed painfully against the unforgiving ground. His shell shattered into jagged pieces. In the end, his wife collected the shards and pasted them back together, creating the cracked, beautiful shell tortoises carry to this day.",
+    "category": "Folktale"
+  },
+  {
+    "title": "Mbe & All the Wisdom in the World",
+    "author": "Traditional Igbo Folk Tale",
+    "cover_image": "https://yourcdn.com/images/mbe_wisdom_gourd.jpg",
+    "audio": "",
+    "text": "Mbe the Tortoise was known for his sharp mind and clever tricks. One day, he declared: “I shall collect all the wisdom of the world and keep it in one gourd!” He visited animals—elephants, lions, ants—and slyly asked for advice. But instead of giving, they unknowingly whispered their wisdom into his gourd.\n\nOnce full, Mbe carried the heavy gourd to the tallest tree and began to climb. But as he ascended, the gourd pressed tightly against his shell, halting his progress. He tried again and again but failed. Then his wise son called out: “Father, tie it to your back,” he said. Mbe did so—but now he could not grab any branches with his arms. He slipped and tumbled down.\n\nEmbarrassed, he cracked the gourd, scattering its contents across the earth. Gathering the broken pieces, Mbe realized: wisdom thrives when shared—not hoarded. And so he walked home, a wiser and humbler creature.",
+    "category": "Folktale"
+  },
+  {
+    "title": "Omenuko",
+    "author": "Pita Nwana",
+    "cover_image": "https://yourcdn.com/images/omenuko_cover.jpg",
+    "audio": "",
+    "text": "Omenuko follows the life of Igwegbe Odum, a young man from Arondizuogu who journeys to the Igbo hinterlands and ultimately to the city of Owerri. Charismatic and resourceful, Igwegbe rises through social networks and trade during the 1930s colonial period. He builds relationships with local chiefs, Europeans, and fellow Igbo migrants. The novel explores the tension between tradition and modernity, the struggles of adaptation, and the pains of cultural change. In Pita Nwana’s own words: “Omenuko is not just a story of one man's ambition but a mirror for a people learning to walk new paths.”",
+    "category": "Literature"
+  },
+  {
+    "title": "The Journey of the Igbo Tribe",
+    "author": "Austine Ogbenna",
+    "cover_image": "https://yourcdn.com/images/journey_igbo_tribe.jpg",
+    "audio": "",
+    "text": "From about 1883 until 1914, Anioma Igbo communities in present-day Delta and Edo States rose in resistance against British colonial rule. Named after the Ekumeku society—a secret, militant order—men and women took the forests and marshes as bases from Ogwashi-Uku to Onicha-Olona. They used guerrilla tactics: ambushes, raids on trade routes, and intelligence networks. Brave leaders like Okumagba rallied fighters, sabotaged colonial forces, and reclaimed lost ground on several occasions. Though battered by superior British weaponry, the movement endured for decades—forcing colonial administrators to compromise, negotiate, and delay full annexation. The Ekumeku Uprising remains an indelible symbol of Igbo resilience and unity.",
+    "category": "History"
+  },
+  {
+    "title": "Ekumeku Uprising: Igbo Resistance (1883–1914)",
+    "author": "Traditional & Historians",
+    "cover_image": "https://yourcdn.com/images/ekumeku_uprising.jpg",
+    "audio": "",
+    "text": "Anioma Igbo chiefs and warriors resisted British economic and political intrusion in a campaign of guerrilla warfare from Onicha‑Olona, Ogwashi and Igbuzo…",
+    "category": "History"
+  },
+  {
+    "title": "Aba Women’s War (Ogu Umunwanyi), 1929",
+    "author": "Narrative of Nwanyeruwa & the Millions",
+    "cover_image": "https://yourcdn.com/images/aba_womens_war.jpg",
+    "audio": "",
+    "text": "Led by Nwanyeruwa and over 10,000 women, Igbo (and other southeastern Nigerian) women staged sit‑ins and protests against warrant chiefs and unjust taxation, forcing colonial reforms…",
+    "category": "History/Social"
+  },
+  {
+    "title": "Igbo Landing (1803)",
+    "author": "Oral & Written Accounts",
+    "cover_image": "https://yourcdn.com/images/igbo_landing.jpg",
+    "audio": "",
+    "text": "A solemn account of Igbo captives in Georgia who chose mass suicide by drowning over enslavement—a tragic act of resistance and spiritual assertion…",
+    "category": "History"
+  },
+  {
+    "title": "Ofala Festival of Onitsha",
+    "author": "Cultural Chronicles",
+    "cover_image": "https://yourcdn.com/images/ofala_festival.jpg",
+    "audio": "",
+    "text": "The royal Ofala—the renewal ceremony of the Igwe—featuring gun-salutes, royal drumming, masquerades and ancestral homage across communities like Onitsha, Umueri and Nnewi…",
+    "category": "Culture/Festival"
+  },
+  {
+    "title": "Ikeji Festival of Arondizuogu",
+    "author": "Cultural Chronicles",
+    "cover_image": "https://yourcdn.com/images/ikeji_festival.jpg",
+    "audio": "",
+    "text": "Celebrated for centuries in March–April, Ikeji celebrates the yam harvest with masquerades, ancestral dances, and community unity in Arondizuogu…",
+    "category": "Culture/Festival"
+  },
+  {
+    "title": "Bronze‑works of Igbo Ukwu",
+    "author": "Archaeologists & Oral Tradition",
+    "cover_image": "https://yourcdn.com/images/igbo_ukwu_bronze.jpg",
+    "audio": "",
+    "text": "A 9th‑century flowering of bronze and copper art from Igbo Ukwu—masterpieces uncovered in royal burials, evidence of a complex early Igbo civilization…",
+    "category": "History/Art"
+  }
+]
