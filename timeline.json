@@ -1,71 +1,58 @@
 [
-    {
-      "era": "Pre-Colonial Era",
-      "title": "Nri Kingdom Flourishes",
-      "period": "900–1911 AD",
-      "description":
-          "The Nri Kingdom, a center of religion and culture, influences much of Igboland.",
-      "icon": "🏰",
-      "story":
-          "The Nri Kingdom is considered the cradle of Igbo civilization, known for its peaceful expansion, spiritual leadership, and the Ozo title system. Nri priests traveled across Igboland, spreading customs and resolving disputes.",
-    },
-    {
-      "era": "Pre-Colonial Era",
-      "title": "Arochukwu Oracle Influence",
-      "period": "15th–19th Century",
-      "description":
-          "The Arochukwu Oracle and Ekpe society play major roles in regional politics and trade.",
-      "icon": "🔮",
-      "story":
-          "The Arochukwu Oracle (Ibini Ukpabi) was a powerful spiritual and judicial center. The Ekpe society, with its secret codes and Nsibidi writing, connected communities and regulated trade, including the slave trade.",
-    },
-    {
-      "era": "Colonial Disruption",
-      "title": "British Colonization",
-      "period": "1900s",
-      "description":
-          "British colonial rule disrupts traditional Igbo structures.",
-      "icon": "🇬🇧",
-      "story":
-          "The British imposed indirect rule, undermining Igbo republicanism and traditional councils. New taxes, forced labor, and missionary activities changed the social fabric.",
-    },
-    {
-      "era": "Colonial Disruption",
-      "title": "Aba Women's Riots",
-      "period": "1929",
-      "description":
-          "Igbo women protest colonial policies in the famous Aba Women's Riots.",
-      "icon": "👩🏾‍🦱",
-      "story":
-          "Thousands of women organized massive protests against unfair taxation and colonial authorities. The movement, also called the Women's War, is a landmark in African women's resistance.",
-    },
-    {
-      "era": "Post-Independence & Biafra",
-      "title": "Nigeria's Independence",
-      "period": "1960",
-      "description": "Nigeria gains independence from Britain.",
-      "icon": "🇳🇬",
-      "story":
-          "The Igbo played key roles in Nigeria's independence movement. Early post-independence years saw Igbo leaders in prominent national positions, but ethnic tensions soon escalated.",
-    },
-    {
-      "era": "Post-Independence & Biafra",
-      "title": "Biafran War",
-      "period": "1967–1970",
-      "description":
-          "The Biafran War deeply affects Igbo society and identity.",
-      "icon": "⚔️",
-      "story":
-          "After a series of coups and massacres, the Eastern Region declared independence as Biafra. The war led to immense suffering, famine, and loss, but also forged a strong sense of Igbo identity and resilience.",
-    },
-    {
-      "era": "Contemporary Identity",
-      "title": "Modern Igbo Culture & Diaspora",
-      "period": "1970s–Present",
-      "description":
-          "Revival of Igbo language, culture, and global diaspora efforts.",
-      "icon": "🌍",
-      "story":
-          "Today, the Igbo are known for entrepreneurship, vibrant culture, and a growing global diaspora. There are renewed efforts to teach Igbo language, celebrate festivals, and connect with roots worldwide.",
-    },
-  ]
+  {
+    "era": "Pre-Colonial Era",
+    "title": "Nri Kingdom Flourishes",
+    "period": "900–1911 AD",
+    "description": "The Nri Kingdom, a center of religion and culture, influences much of Igboland.",
+    "icon": "🏰",
+    "story": "The Nri Kingdom is considered the cradle of Igbo civilization, known for its peaceful expansion, spiritual leadership, and the Ozo title system. Nri priests traveled across Igboland, spreading customs and resolving disputes."
+  },
+  {
+    "era": "Pre-Colonial Era",
+    "title": "Arochukwu Oracle Influence",
+    "period": "15th–19th Century",
+    "description": "The Arochukwu Oracle and Ekpe society play major roles in regional politics and trade.",
+    "icon": "🔮",
+    "story": "The Arochukwu Oracle (Ibini Ukpabi) was a powerful spiritual and judicial center. The Ekpe society, with its secret codes and Nsibidi writing, connected communities and regulated trade, including the slave trade."
+  },
+  {
+    "era": "Colonial Disruption",
+    "title": "British Colonization",
+    "period": "1900s",
+    "description": "British colonial rule disrupts traditional Igbo structures.",
+    "icon": "🇬🇧",
+    "story": "The British imposed indirect rule, undermining Igbo republicanism and traditional councils. New taxes, forced labor, and missionary activities changed the social fabric."
+  },
+  {
+    "era": "Colonial Disruption",
+    "title": "Aba Women's Riots",
+    "period": "1929",
+    "description": "Igbo women protest colonial policies in the famous Aba Women's Riots.",
+    "icon": "👩🏾‍🦱",
+    "story": "Thousands of women organized massive protests against unfair taxation and colonial authorities. The movement, also called the Women's War, is a landmark in African women's resistance."
+  },
+  {
+    "era": "Post-Independence & Biafra",
+    "title": "Nigeria's Independence",
+    "period": "1960",
+    "description": "Nigeria gains independence from Britain.",
+    "icon": "🇳🇬",
+    "story": "The Igbo played key roles in Nigeria's independence movement. Early post-independence years saw Igbo leaders in prominent national positions, but ethnic tensions soon escalated."
+  },
+  {
+    "era": "Post-Independence & Biafra",
+    "title": "Biafran War",
+    "period": "1967–1970",
+    "description": "The Biafran War deeply affects Igbo society and identity.",
+    "icon": "⚔️",
+    "story": "After a series of coups and massacres, the Eastern Region declared independence as Biafra. The war led to immense suffering, famine, and loss, but also forged a strong sense of Igbo identity and resilience."
+  },
+  {
+    "era": "Contemporary Identity",
+    "title": "Modern Igbo Culture & Diaspora",
+    "period": "1970s–Present",
+    "description": "Revival of Igbo language, culture, and global diaspora efforts.",
+    "icon": "🌍",
+    "story": "Today, the Igbo are known for entrepreneurship, vibrant culture, and a growing global diaspora. There are renewed efforts to teach Igbo language, celebrate festivals, and connect with roots worldwide."
+  }
+]
